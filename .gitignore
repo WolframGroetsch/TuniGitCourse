@@ -1,0 +1,4 @@
+# Ignore all files with these endings
+*.in
+*.out
+*.pyc
